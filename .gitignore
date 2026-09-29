@@ -1,3 +1,7 @@
+changes.patch
+
+# Сборочные артефакты и игровые данные (не должны попадать в репозиторий)
 python_game/build/
-python_game/python_game
 python_game/data/
+python_game/python_game
+*.o
