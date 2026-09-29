@@ -1,0 +1,3 @@
+#ID_USER|LOGIN|PASSWORD_HASH|PLAYER_NAME
+1|vasya|fd037e095f6bc668|Вася
+2|vasya2|fd037e095f6bc668|Вася2
